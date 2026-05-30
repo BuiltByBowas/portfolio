@@ -1,1 +1,8 @@
-builtbybowas.is-a.dev
+{
+  "owner": {
+    "username": "BuiltByBowas"
+  },
+  "record": {
+    "CNAME": "builtbybowas.github.io"
+  }
+}
